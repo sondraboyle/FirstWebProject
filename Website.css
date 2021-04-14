@@ -1,0 +1,83 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    color:gray;
+    text-decoration:none;
+}
+
+a:hover{
+    color:pink;
+}
+
+.logo{
+    max-width: 300px;
+    top: 20px;
+    left: 20px;
+    padding:20px;
+
+}
+
+.box1{
+  padding:20px;
+}
+/*.otherlinks{
+top:20px;
+right:500px;
+}*/
+
+.pageNavigation{
+    margin:20px;
+    float: right;
+    margin-left: auto;
+}
+
+tr, td{
+    text-align:center;
+    padding:10px;
+}
+
+.mainpic{
+    display:block;
+    max-width:50%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.bio{
+    font-size:xx-large;
+    padding:80 40px;
+    margin: 20px 20px 20px 80px;
+}
+
+.left{
+    text-align: right;
+    font-family: 'Noto Sans SC', sans-serif;
+    margin: 20px 40px;
+    letter-spacing: 2px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+   
+  }
+
+.bottomBox{
+        width: 120px;
+        font-family: 'Source Code Pro', monospace;
+        text-align: center;
+        padding:20px 10px;
+        border:solid 2px purple;
+        margin:5px 10px 10px 80px;
+        text-transform:uppercase;
+        margin-right: auto;
+        color:purple;
+}
+
+.bottomBox a:hover{
+    color:white;
+    background-color:purple;
+
+}
